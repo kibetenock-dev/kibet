@@ -33,7 +33,7 @@ npm run build
 
 ## Deployment
 
-This project is configured for GitHub Pages using the repository base path.
+This project is ready to be deployed on Vercel using the default Vite build settings.
 
 ## License
 
